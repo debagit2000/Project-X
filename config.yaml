@@ -3,8 +3,8 @@ log_paths:
 email:
   smtp_server: smtp.gmail.com
   smtp_port: 587
-  sender: change_me
-  password: change_me
-  receiver: change_me
+  sender: debashiskundu2026@gamil.com
+  password: HelloGmail@2000
+  receiver: debashis.kundu@capgemini.com
 ollama:
   model: llama3.1
