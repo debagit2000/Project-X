@@ -7,4 +7,4 @@ email:
   password: HelloGmail@2000
   receiver: debashis.kundu@capgemini.com
 ollama:
-  model: llama3.1
+  model: qwen2.5:3b
