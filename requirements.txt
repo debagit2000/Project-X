@@ -1,0 +1,13 @@
+watchdog
+ollama
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-chroma
+pypdf
+python-docx
+flask
+pyyaml
+sqlalchemy
+schedule
